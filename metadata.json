@@ -1,0 +1,6 @@
+{
+  "name": "Photo Gallery & Gemini Explainer",
+  "description": "Repository documentation and license for photo-gallery-, explaining Google Gemini multimodal architecture and integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
